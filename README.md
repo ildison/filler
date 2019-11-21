@@ -17,8 +17,8 @@ The aim of the game is to put more pieces on the map than the ennemy.
 
 <img src="https://github.com/ildison/filler/blob/master/src/visualizer/gif/filler_visualization.gif" width="947" height="533" />
 
-## Instal & Usage
-### Instal
+## Install & Usage
+### Install
 `git clone https://github.com/ildison/filler.git filler_visualizer`  
 `cd filler_visualizer`
 ### Usage
